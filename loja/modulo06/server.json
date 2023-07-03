@@ -1,0 +1,68 @@
+{
+"stock":[
+{
+"id":1,
+"amount":3
+},
+{
+    "id":2,
+    "amount":5
+    },
+
+    {
+        "id":3,
+        "amount":2
+        },
+        {
+            "id":4,
+            "amount":1
+            },
+            {
+                "id":5,
+                "amount":5
+                },
+                {
+                    "id":6,
+                    "amount":10
+                    }
+
+],
+"products":[
+{
+"id":1,
+"title":"tenis a",
+"price":180.9,
+"image":"https://imgcentauro-a.akamaihd.net/250x250/97309931A1/tenis-nike-downshifter-12-masculino-img.jpg"
+},
+{
+    "id":2,
+    "title":"tenis b",
+    "price":190.9,
+    "image":"https://imgcentauro-a.akamaihd.net/230x230/96831531.jpg"
+    },
+    {
+        "id":3,
+        "title":"tenis c",
+        "price":200.9,
+        "image":"https://imgcentauro-a.akamaihd.net/230x230/97008532.jpg"
+        },
+        {
+            "id":5,
+            "title":"tenis d",
+            "price":210.9,
+            "image":"https://imgcentauro-a.akamaihd.net/250x250/9694615GA1/tenis-adidas-lite-racer-3-0-feminino-img.jpg"
+            },
+            {
+                "id":6,
+                "title":"tenis e",
+                "price":220.9,
+                "image":"https://imgcentauro-a.akamaihd.net/230x230/96409501.jpg"
+                },
+                {
+                    "id":4,
+                    "title":"tenis f",
+                    "price":230.9,
+                    "image":"https://imgcentauro-a.akamaihd.net/250x250/968315JUA1/tenis-nike-revolution-6-feminino-img.jpg"
+                    }
+]
+}
